@@ -18,11 +18,8 @@ Existing 1 user:
 Then it will redirect to laravel.passport for authorize. The autherization require login. After authorizating access token will be print out: `{access_token}`
 
 4. Use one of those API clients: Postman, Restful
-
 Try with link `http://laravel.passport/api/user`
-
 Input headers:
-
 `Content-Type application/json`
 
 `Accept application/json`
